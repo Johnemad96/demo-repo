@@ -1,3 +1,3 @@
 # GIT TEST
 
-just a test repo to learn git
+just a test repo to learn git.
